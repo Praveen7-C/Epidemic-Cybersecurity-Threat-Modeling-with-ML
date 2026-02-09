@@ -89,6 +89,7 @@ Epidemic-Cybersecurity-Threat-Modeling-with-ML/
 ├── Dataset.csv         # Primary cybersecurity dataset
 ├── Book.csv            # Reference dataset
 ├── download.jpg        # Visualization / architecture diagram
+├── requirements.txt
 └── README.md           # Project documentation
 ```
 
