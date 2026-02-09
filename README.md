@@ -5,6 +5,10 @@
 This project integrates **epidemic modeling concepts** with **cybersecurity threat analysis** using **Machine Learning** to predict and understand how cyber threats spread across computer networks.  
 By treating cyber-attacks like infectious diseases, the system models threat propagation, identifies vulnerable systems, and supports proactive security decision-making.
 
+
+**Live Deployment (Streamlit App)**  
+https://epidemic-cybersecurity-threat-modeling-with-ml.streamlit.app/
+
 ---
 
 ## Features
